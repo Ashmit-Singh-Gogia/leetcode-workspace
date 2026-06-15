@@ -1,0 +1,8 @@
+# Ignore all compiled Java bytecode files in any folder
+*.class
+
+# Ignore OS-generated files (common on macOS)
+.DS_Store
+
+# Ignore VS Code specific workspace settings (optional but recommended)
+.vscode/
